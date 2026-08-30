@@ -8,7 +8,6 @@
 
 version transformers coming
 
-This isn’t just an “update.”
-This is a complete, fully-built SCH XML made to be the strongest and most complete AshitaCast v3 setup — a single heavy, professional file that combines core logic + advanced logic in one place.
+This is a complete, fully-built strongest 
 Add above  100 mode AutoWeaponskillMode AutoWSMode Autostylemode DefenseMode treasuremode RuneElement  Redprocmode and more
 
